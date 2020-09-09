@@ -37,6 +37,7 @@ print(f"Время в формате чч:мм:сс   {hours} : {minutes} : {sec
 n = int(input("Введите число - "))
 total = (n + int(str(n) + str(n)) + int(str(n) + str(n)+ str(n)))
 print("Сумма чисел n + nn + nnn - %d" % total)
+
 '''
 Пользователь вводит целое положительное число.
 Найдите самую большую цифру в числе.
